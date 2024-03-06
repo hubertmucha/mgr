@@ -1,0 +1,9 @@
+\babel@toc {polish}{}\relax 
+\contentsline {chapter}{\numberline {1}Wprowadzenie}{7}{}%
+\contentsline {section}{\numberline {1.1}Cele pracy}{7}{}%
+\contentsline {section}{\numberline {1.2}Zawartość pracy}{7}{}%
+\contentsline {chapter}{\numberline {2}Część teoretyczna}{9}{}%
+\contentsline {section}{\numberline {2.1}Sygnał analogowy, próbkowanie sygnału}{9}{}%
+\contentsline {subsubsection}{\numberline {2.1.0.1}Sygnał analogowy}{9}{}%
+\contentsline {subsubsection}{\numberline {2.1.0.2}Próbkowanie sygnału}{9}{}%
+\contentsline {section}{\numberline {2.2}Zawartość pracy}{10}{}%
